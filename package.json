@@ -1,0 +1,25 @@
+{
+  "name": "calutulbot-ultimate-edition",
+  "version": "1.0.0",
+  "description": "An improved version of CalutulBot, basically a great discord bot for small servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "soundboard",
+    "music"
+  ],
+  "author": {
+    "name": "Prelipcean Cristian",
+    "email": "prelipceancristian100@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "dotenv": "^16.0.0"
+  }
+}
